@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/weather-app/static/css/main.a0ef898b.chunk.css",
-    "main.js": "/weather-app/static/js/main.200fbe6d.chunk.js",
-    "main.js.map": "/weather-app/static/js/main.200fbe6d.chunk.js.map",
-    "runtime-main.js": "/weather-app/static/js/runtime-main.b0a5adf8.js",
-    "runtime-main.js.map": "/weather-app/static/js/runtime-main.b0a5adf8.js.map",
-    "static/js/2.8dba1caa.chunk.js": "/weather-app/static/js/2.8dba1caa.chunk.js",
-    "static/js/2.8dba1caa.chunk.js.map": "/weather-app/static/js/2.8dba1caa.chunk.js.map",
+    "main.js": "/weather-app/static/js/main.babeda17.chunk.js",
+    "main.js.map": "/weather-app/static/js/main.babeda17.chunk.js.map",
+    "runtime-main.js": "/weather-app/static/js/runtime-main.e6f382d7.js",
+    "runtime-main.js.map": "/weather-app/static/js/runtime-main.e6f382d7.js.map",
+    "static/js/2.491ee72a.chunk.js": "/weather-app/static/js/2.491ee72a.chunk.js",
+    "static/js/2.491ee72a.chunk.js.map": "/weather-app/static/js/2.491ee72a.chunk.js.map",
     "index.html": "/weather-app/index.html",
-    "precache-manifest.3ab500fe5ecbf8db37f0fd1ced1dc77d.js": "/weather-app/precache-manifest.3ab500fe5ecbf8db37f0fd1ced1dc77d.js",
+    "precache-manifest.a6639e80b8a6a08de3abd3e275240aaa.js": "/weather-app/precache-manifest.a6639e80b8a6a08de3abd3e275240aaa.js",
     "service-worker.js": "/weather-app/service-worker.js",
     "static/css/main.a0ef898b.chunk.css.map": "/weather-app/static/css/main.a0ef898b.chunk.css.map",
-    "static/js/2.8dba1caa.chunk.js.LICENSE.txt": "/weather-app/static/js/2.8dba1caa.chunk.js.LICENSE.txt",
+    "static/js/2.491ee72a.chunk.js.LICENSE.txt": "/weather-app/static/js/2.491ee72a.chunk.js.LICENSE.txt",
     "static/media/clear.gif": "/weather-app/static/media/clear.892d1bc3.gif",
     "static/media/clouds.gif": "/weather-app/static/media/clouds.92403dc8.gif",
     "static/media/d_bandung1.jpg": "/weather-app/static/media/d_bandung1.70c48d5f.jpg",
@@ -41,9 +41,9 @@
     "static/media/thunderstorm.gif": "/weather-app/static/media/thunderstorm.11c35b41.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.b0a5adf8.js",
-    "static/js/2.8dba1caa.chunk.js",
+    "static/js/runtime-main.e6f382d7.js",
+    "static/js/2.491ee72a.chunk.js",
     "static/css/main.a0ef898b.chunk.css",
-    "static/js/main.200fbe6d.chunk.js"
+    "static/js/main.babeda17.chunk.js"
   ]
 }
