@@ -1,6 +1,6 @@
 {
-  "homepage": "http://yoshiafk.github.io/weather-app",
-  "name": "weather",
+  "homepage": "https://yoshiafk.github.io/weather-app/",
+  "name": "weather-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
