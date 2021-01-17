@@ -10,7 +10,7 @@ function NotFound() {
         }}
         >
             <div className="h-screen w-screen flex flex-col justify-center items-center text-white">
-                <div style={{ fontSize: "150px"}}>404</div>
+                <div style={{ fontSize: "150px"}}>ERROR 404</div>
                 <div className="text-3xl">
                     <Link to="/" replace>
                     Take Me Back

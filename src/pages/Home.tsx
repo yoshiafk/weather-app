@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-
+import { AiFillGithub } from "react-icons/ai";
 import Card from "../components/home/Card";
 import {connect} from "react-redux";
 import { fetchWeather } from "../actions/ajaxActions";
@@ -76,6 +76,22 @@ class Home extends Component<FormProps, FormState> {
                     {Object.keys(this.props.weather).map((e,i) => {
                         return <Card city={e} key={i} weather={this.props.weather[e]}/>
                     })}
+                </div>
+                <div className= "flex text-white" style={{ height: "5%" }}>
+                  <div className="mb-2 ml-2 self-end">
+                    <a
+                    className="mb-1 no no-underline duration-300 cursor-pointer hover:text-gray-200"
+                    href="https://github.com/yoshiafk/weather-app"
+                    >
+                      <div className="flex items-center">
+                        Yosy A.
+                        <AiFillGithub className="ml-2 text-xl" />
+                      </div>
+                    </a>
+                    <div className="text-xs">
+                      Made with: React, Redux, Typescript and Tailwind.
+                    </div>
+                  </div>
                 </div>
             </div>
         );
