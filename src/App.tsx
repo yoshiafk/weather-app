@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { HashRouter, Switch, Route } from "react-router-dom";
 import City from "./pages/City"
 import Home from "./pages/Home"
 import NotFound from './pages/NotFound';
@@ -11,13 +11,13 @@ class App extends Component {
   render() {
     return (
       <Provider store={store}>
-        <Router>
+        <HashRouter>
           <Switch>
             <Route path="/404" component={NotFound}/>
             <Route path="/:city" component={City}/>
             <Route path="/" component={Home} />
           </Switch>
-        </Router>
+        </HashRouter>
       </Provider>
     );
   }
