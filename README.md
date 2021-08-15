@@ -1,3 +1,6 @@
+You can access the live pages from https://yoshiafk.github.io/weather-app/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
